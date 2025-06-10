@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		fFetyEZebIAPxT+J01KPeaRpeZw=
+		IoA+DtzkF4scP9W7FAWS32bQsuY=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		1nGaudMJL8w/V2izfeu0vA8eNOw=
+		tqNC2BL5maOTF9xc+Rqo1wk6V/E=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		r7+jkuRyjFaPlMK+EO48R9iCWhg=
+		063JXWKTfzZqvf762VKYd0Z51xY=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NativeAssetsManifest.json</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		Uf+GKmhqcNCZprALQ2OitxPi4SU=
+		VtOcMMals1P71DrncfKaHt308tM=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>Frameworks/flutter_native_splash.framework/flutter_native_splash</key>
 		<data>
-		wuU+fL3WoOp8DXoclxdK//M8LEg=
+		Fd09AegP1yPrxEhauadf/BtS34o=
 		</data>
 		<key>Frameworks/flutter_native_splash.framework/flutter_native_splash_privacy.bundle/Info.plist</key>
 		<data>
@@ -222,7 +222,7 @@
 		</data>
 		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation</key>
 		<data>
-		y5v11RLlkfn6u13krSFjN7CneH0=
+		GhJ3xf5BWmu+axCFvXlBf6tIB6o=
 		</data>
 		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/Info.plist</key>
 		<data>
@@ -242,7 +242,7 @@
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios</key>
 		<data>
-		YKocvtOYrUMOFRgAedetRf4O/20=
+		Bh5AVfJQO/Hb5KjPwZDJ+J1JUNU=
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>
 		<data>
@@ -262,7 +262,7 @@
 		</data>
 		<key>Runner.debug.dylib</key>
 		<data>
-		1fC/dwnqL+by/lSrya8KkNvw/Yw=
+		NR5hudgBgodBxwSK/WiZePZpRio=
 		</data>
 		<key>__preview.dylib</key>
 		<data>
@@ -345,7 +345,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xCUlFJWdlmNqzGPVbDiRvVzULT15x80f8StOdjU/HVE=
+			igs04uWKasZKSZDdySshfnNwM4eQfiLMzXgPVF2nUJM=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -359,7 +359,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s3KkCBC+g+WP2fNt68Ulp5awiozD1Ct9qIIG+uke0B0=
+			igy9viZzhjFkc5spEuL08mEmqI8YdZYRpVWLb3Z+lpU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
@@ -387,7 +387,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r5WZmLXPiyqBUj69SoYzb97TUdyKSqdSn5uJRiC7O4s=
+			SvZCHWJd3Mq3DCu7V3vQBSCg72YQOerm7VgH3z8qzd4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/NativeAssetsManifest.json</key>
@@ -415,7 +415,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WUSH+Kfnh8e/8Il86PWMZKDxOjKR/Mlb8IXzbucJZ2Y=
+			RFLooUTvW8xPryVQJiMqIifYqrlbkqxkwph5baNW8uI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -618,7 +618,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mF6GOaqO0ogTxKefc8LvjtlbBTBvnpoX2bkLkztpjtA=
+			1s+Ro2ceEB7MCnY5ulZ2OH/OG/YnyysnMXTKdlxhhUQ=
 			</data>
 		</dict>
 		<key>Frameworks/flutter_native_splash.framework/flutter_native_splash_privacy.bundle/Info.plist</key>
@@ -653,7 +653,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xyjpNxlQEpJbPgUcfY0cVAVulDww85HobdZchiSiSKk=
+			lVuykLiZ9UJpwoKrjx6t1eo2SjA2NWQ4wRPwwdKGk4A=
 			</data>
 		</dict>
 		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/Info.plist</key>
@@ -688,7 +688,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZDk7MVcJmJKdKXcjEviXbEKZk2N7DuI6zqyqAkut5EA=
+			aW9Ixjh1G2BsyugXe9wBZnrME7+WGgEHetMwYWxKdeg=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>
@@ -709,7 +709,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tUdl4J7kEWz3LrQDq0ROb8MvxNmeoLYmhPiACW6xN/A=
+			N7llF+80S6gitQ3WWqqXRSu5rEDq7GTpggRvH9UeAkQ=
 			</data>
 		</dict>
 		<key>__preview.dylib</key>
