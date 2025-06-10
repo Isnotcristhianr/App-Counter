@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.app_intro.app-mergeReleaseResources-40:/values-night-v31/values-night-v31.xml",
+            "outputFile": "com.isnotcristhianr.app_counter.app-mergeReleaseResources-40:/values-night-v31/values-night-v31.xml",
             "map": [
                 {
                     "source": "/Users/cristhianrecalde/dev/mobile/App-Counter/android/app/src/main/res/values-night-v31/styles.xml",

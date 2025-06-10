@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.app_intro.app-mergeReleaseResources-40:/values/values.xml",
+            "outputFile": "com.isnotcristhianr.app_counter.app-mergeReleaseResources-40:/values/values.xml",
             "map": [
                 {
                     "source": "/Users/cristhianrecalde/.gradle/caches/8.10.2/transforms/4c860eba32ffd640cf27d7bcf8c58afd/transformed/lifecycle-viewmodel-2.7.0/res/values/values.xml",

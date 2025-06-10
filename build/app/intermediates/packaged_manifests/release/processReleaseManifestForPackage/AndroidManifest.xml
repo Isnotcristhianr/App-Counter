@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.app_intro"
+    package="com.isnotcristhianr.app_counter"
     android:versionCode="1"
     android:versionName="1.0.0" >
 
@@ -23,10 +23,10 @@
     </queries>
 
     <permission
-        android:name="com.example.app_intro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.isnotcristhianr.app_counter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.example.app_intro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.isnotcristhianr.app_counter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:name="android.app.Application"
@@ -35,7 +35,7 @@
         android:icon="@mipmap/launcher_icon"
         android:label="app_intro" >
         <activity
-            android:name="com.example.app_intro.MainActivity"
+            android:name="com.isnotcristhianr.app_counter.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:exported="true"
             android:hardwareAccelerated="true"
@@ -82,7 +82,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.example.app_intro.androidx-startup"
+            android:authorities="com.isnotcristhianr.app_counter.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.lifecycle.ProcessLifecycleInitializer"

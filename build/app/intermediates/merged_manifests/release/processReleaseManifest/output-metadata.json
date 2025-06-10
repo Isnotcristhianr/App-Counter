@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.app_intro",
+  "applicationId": "com.isnotcristhianr.app_counter",
   "variantName": "release",
   "elements": [
     {
